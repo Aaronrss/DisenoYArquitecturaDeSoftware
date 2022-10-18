@@ -1,0 +1,15 @@
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/bin/Debug/net6.0/singleton
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/bin/Debug/net6.0/singleton.deps.json
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/bin/Debug/net6.0/singleton.runtimeconfig.json
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/bin/Debug/net6.0/singleton.dll
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/bin/Debug/net6.0/singleton.pdb
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/singleton.csproj.AssemblyReference.cache
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/singleton.AssemblyInfoInputs.cache
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/singleton.AssemblyInfo.cs
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/singleton.csproj.CoreCompileInputs.cache
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/singleton.dll
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/refint/singleton.dll
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/singleton.pdb
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/singleton.genruntimeconfig.cache
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/Patrones/singleton/obj/Debug/net6.0/ref/singleton.dll

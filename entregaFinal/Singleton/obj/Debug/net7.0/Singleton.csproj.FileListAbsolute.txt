@@ -1,0 +1,15 @@
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/bin/Debug/net7.0/Singleton
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/bin/Debug/net7.0/Singleton.dll
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/bin/Debug/net7.0/Singleton.pdb
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/Singleton.dll
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/Singleton.pdb
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/Users/blckwlf/Documents/GitHub/DisenoYArquitecturaDeSoftware/entregaFinal/Singleton/obj/Debug/net7.0/ref/Singleton.dll

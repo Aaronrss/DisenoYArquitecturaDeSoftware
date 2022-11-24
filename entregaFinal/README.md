@@ -1,6 +1,6 @@
 # Comparación Patroness de Diseño
 
-## Patrones creacionales
+## Patrones Creacionales
 
 ### Singleton
 
@@ -29,3 +29,17 @@ Su accion principal es clonar clases, interfaces y objetos para no romper los or
 Permite la interacción entre objetos con interfaces incompatibles.
 
 # Puntos Extra
+
+## Patron de Diseño Estructural
+
+### Composite
+
+### Decorator
+
+### Facade
+
+Minimiza las comunicaciones y dependencias entre los subsistemas.
+
+### Proxy
+
+Permite controla el acceso al objeto original.
